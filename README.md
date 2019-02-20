@@ -4,7 +4,7 @@
 #### Group members: Mark Dyehouse, Veronica Medrano, Huan Weng, Chenge Yang, Guo Ye
 
 ### 2/11/19: 
- * This project was the final first quarter Fall project for the Northwestern MSR program In this project, my team and I worked together to program Sawyer, the Robot to detect and draw faces. Our team was awarded first place in Robotics competition. My main role was developing the face detection algrorithm as demonstrated [here](https://github.com/vnoelifant/finalProject495/blob/vmed/src/face_detect.py). In summary, the code utilizes the Haar Feature-based Cascade Machine Learning Classifier from OpenCV to detect and crop one's face. This code then gets passed to a Canny Edge Detector algorithm, which then gets passed to the trajectory planner. Full summary of the project, details of the integration, and a video are shown below. 
+ * This project was the final first quarter Fall project for the Northwestern MSR program In this project, my team and I worked together to program Sawyer, the Robot to detect and draw faces. Our team was awarded first place in Robotics competition. My main role was developing the face detection algrorithm as demonstrated [here](https://github.com/ThePenultimatum/finalProject495/blob/vmed/src/face_detect.py). In summary, the code utilizes the Haar Feature-based Cascade Machine Learning Classifier from OpenCV to detect and crop one's face. This code then gets passed to a Canny Edge Detector algorithm, which then gets passed to the trajectory planner. Full summary of the project, details of the integration, and a video are shown below. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AccB97JPMUE
 " target="_blank"><img src="http://img.youtube.com/vi/AccB97JPMUE/0.jpg" 
